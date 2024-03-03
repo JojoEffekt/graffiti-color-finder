@@ -3,6 +3,8 @@
 
 **Find the right color using the Hex value or the RGB value.**
 
+![gcf](https://github.com/JojoEffekt/graffiti-color-finder/assets/69061043/2d4ef9d8-27ee-462c-aa91-5c60f93a6783)
+
 **Existing brands:**
 * Montana Black 400ml
 * Montana Gold 400ml
